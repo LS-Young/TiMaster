@@ -13,9 +13,11 @@
 
 Motivation  
 
-Student getting busier and busier with their studies. They need not only to sort out the knowledge they are studying, but also manage their time well, so that they do not have to stay up late every night and then they can have more time to go for the activities they like and enjoy their campus life. 
+As a NUS student, for his school daily life, he has to log in Luminus to get announcements and the zoom links for class, and check NUSnextbus for the timing to go to bus stop. Sometimes, if he is unlucky that no one reminds him of his deadline, he may miss it. 
 
-The existing apps like Nusnextbus, websites like Luminus, NusMods and Edurec can all provide a timetable thing, but they are all isolated from each other that make time management everyday a bit inconvenient. 
+These days,student getting busier and busier with their studies. They need not only to sort out the knowledge they are studying, but also manage their time well, so that they do not have to stay up late every night and then they can have more time to go for the activities they like and enjoy their campus life. 
+
+The existing apps NUSnextbus provides important bus information, Luminus provides class files and information, NUSmods provides module information, and Edurec provides score and examination information. These apps and websites are useful, but they are all isolated from each other that make time management everyday a bit inconvenient. 
 
 Features/User Stories 
 
