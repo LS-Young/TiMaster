@@ -16,12 +16,22 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        btn=findViewById(R.id.btn);
+        btn=findViewById(R.id.btn1);
         final Uri uri=Uri.parse("https://luminus.nus.edu.sg/");
         btn.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 Intent intent=new Intent(Intent.ACTION_VIEW,uri);
+                startActivity(intent);
+            }
+        });
+
+        btn=findViewById(R.id.btn2);
+        //final Uri uri1=Uri.parse("https://luminus.nus.edu.sg/");
+        btn.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent=new Intent(MainActivity.this, TimetableActivity.class);
                 startActivity(intent);
             }
         });
