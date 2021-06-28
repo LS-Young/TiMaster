@@ -1,25 +1,31 @@
-# Piggy-Note
-Self-developed android app
+#TiMaster
 
-## 下载方法：
-华为 应用市场 搜索 **Piggy Note**
+1)apollo 11
 
-## 应用介绍：
-这是送给小猪的一周年纪念礼物。。之一！
-也算是我踏入安卓开发这个领域之后独立开发的第一款应用。谈不上开发，但也绝非复刻，参考了很多市面上的备忘录、很多手机系统预装的备忘录与很多人的使用意见，在自己的能力范围内开发的一款应用。
-希望你能喜欢，也希望你们能喜欢。
-汉化版还未开发，如有需求，可以考虑。
+2) make a usable app
 
-## 功能：
-加号按钮添加新笔记，旗帜按钮添加新提醒
-在编辑界面编辑完成后，按返回键即可保存
-设置中可以自定义按钮颜色，改变护眼模式，修改笔记/提醒时间正反序，并可自定义标签功能。
+01/05 ~ 31/05 get the specific idea of what we are going to do and learn the tools we are going to use
 
-## 版本更新
-v1.2 
-状态栏颜色与app统一
-编辑新笔记/新提醒时点触空白屏幕任意部分均可触发输入键盘
+01/06 ~ 28/06 finish the basic features
 
-v1.3
-解决成就系统重复通知的问题
-笔记显示方式可选择为只显示第一行或显示全部内容
+29/06 ~ 26/07 polish the app
+
+3)
+
+Motivation  
+
+Student getting busier and busier with their studies. They need not only to sort out the knowledge they are studying, but also manage their time well, so that they do not have to stay up late every night and then they can have more time to go for the activities they like and enjoy their campus life. 
+
+The existing apps like Nusnextbus, websites like Luminus, NusMods and Edurec can all provide a timetable thing, but they are all isolated from each other that make time management everyday a bit inconvenient. 
+
+Features/User Stories 
+
+1.Students can get the timetable for their module 
+
+2.Students can add in the events they plan to do in the timetable 
+
+3.The app can recommend students which bus to take for the face-to-face classes and the time they should leave their dormitory 
+
+4.The app will remind students of the next coming event and assignment deadline. 
+
+5.The zoom link will be available in the app for the online classes (added by lecturer). 
