@@ -10,20 +10,14 @@ TiMaster
 
 29/06 ~ 26/07 polish the app
 
-3)Motivation  
+3)Motivation
 
-Student getting busier and busier with their studies. They need not only to sort out the knowledge they are studying, but also manage their time well, so that they do not have to stay up late every night and then they can have more time to go for the activities they like and enjoy their campus life. 
+Student getting busier and busier with their studies. They need not only to sort out the knowledge they are studying, but also manage their time well, so that they do not have to stay up late every night and then they can have more time to go for the activities they like and enjoy their campus life.
 
-The existing apps like Nusnextbus, websites like Luminus, NusMods and Edurec can all provide a timetable thing, but they are all isolated from each other that make time management everyday a bit inconvenient. 
+Thus we put forward this time management app
 
-Features/User Stories 
+Features/User Stories
 
-1.Students can get the timetable for their module 
+1. The users can add in the things they want to do with the time specified.
 
-2.Students can add in the events they plan to do in the timetable 
-
-3.The app can recommend students which bus to take for the face-to-face classes and the time they should leave their dormitory 
-
-4.The app will remind students of the next coming event and assignment deadline. 
-
-5.The zoom link will be available in the app for the online classes (added by lecturer). 
+2. The users can take notes in the app.
